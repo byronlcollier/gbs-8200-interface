@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM1881
+F https://www.ti.com/lit/ds/symlink/lm1881.pdf
+$ENDCMP
+#
+$CMP SCART-F
+D Prise Peritel
+K connector
+F http://www.farnell.com/datasheets/2117935.pdf
+$ENDCMP
+#
+#End Doc Library

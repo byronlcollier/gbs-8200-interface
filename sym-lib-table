@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SCART_to_GBS8200)(type Legacy)(uri ${KIPRJMOD}/SCART_to_GBS8200.lib)(options "")(descr ""))
+)

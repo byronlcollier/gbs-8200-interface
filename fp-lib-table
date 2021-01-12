@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SCART_to_GBS8200)(type KiCad)(uri ${KIPRJMOD}/SCART_to_GBS8200.pretty)(options "")(descr ""))
+  (lib (name BeardLogo)(type KiCad)(uri C:/Users/byron/OneDrive/Documents/Projects/Electronics/SCART_to_GBS8200/BeardLogo.pretty)(options "")(descr ""))
+)
